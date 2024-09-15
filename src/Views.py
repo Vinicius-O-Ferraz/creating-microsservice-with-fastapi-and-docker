@@ -1,2 +1,0 @@
-"""É responsável por receber solicitações do cliente e retornar uma resposta adequada. Ela pode ser implementada usando rotas FastAPI que correspondem às URLs da API.
- A view pode chamar a camada do modelo para obter dados e, em seguida, usar um esquema FastAPI para serializar a resposta em um formato adequado, como JSON."""
